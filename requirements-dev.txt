@@ -17,3 +17,4 @@ types-setuptools
 pytest
 pytest-xdist
 pytest-env>=0.6
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
